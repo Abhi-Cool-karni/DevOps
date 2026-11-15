@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Exercise-2
+
 #Variables: Shell Variables are created once they are assigned a value. A Variable can contain a number, a character or string of charecters. Variable names is case sensitive and can consist of a combination of letters and the underscore "_". Value assignment is done using the "=" sign. Note: No space permitted on either side of = sign when intializing variables.
 
 BIRTHDATE="Nov 4, 2000"

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Exercise-4
+
 echo "File name is "$0
 echo $3
 Data=$5
