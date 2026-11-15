@@ -1,8 +1,9 @@
 #!/bin/bash
 # Exercise-1
 echo 'Hello, World'
-#!/bin/bash
 
+
+#!/bin/bash
 #Exercise-2
 
 #Variables: Shell Variables are created once they are assigned a value. A Variable can contain a number, a character or string of charecters. Variable names is case sensitive and can consist of a combination of letters and the underscore "_". Value assignment is done using the "=" sign. Note: No space permitted on either side of = sign when intializing variables.
@@ -28,14 +29,14 @@ if [ "$BIRTHDAY" == "Saturday" ] ; then
 else
 	echo "BIRTHDAY is incorrect - please retry"
 fi
-#!/bin/bash
 
+#!/bin/bash
 #Exercise-3
 
 FileList=`ls`
 FileWithTimeStamp=/home/ubuntu/DevOps/Linux/file_$(/bin/date +%Y-%m-%d).txt
-#!/bin/bash
 
+#!/bin/bash
 #Exercise-4
 
 echo "File name is "$0
@@ -43,8 +44,8 @@ echo $3
 Data=$5
 echo "A $Data cost just $6."
 echo "Number of aurgument passed = "$#
-#!/bin/bash
 
+#!/bin/bash
 #Exercise-5
 
 # A scratch folder with files to work with.
