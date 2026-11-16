@@ -1,0 +1,17 @@
+What is Git?
+
+Git is a distribution version control system that keep tracks of the files.
+
+Types of version control system:
+1. Centralised version control system
+2. Ditributed version control system
+
+1. Centralised version control system:
+Centralised version control keeps the track of the files/record pushed by the indivitual into central server.
+
+Ex: SVN
+
+2. Distribution version control system:
+Distributed version control system keeps the record in both the local and remote (central) server/repo keeping the records intact avoiding downtime and latency.
+
+Ex: Git, 
