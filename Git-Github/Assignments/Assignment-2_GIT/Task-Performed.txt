@@ -1,0 +1,8 @@
+
+1. Created a Git working directory with feature1.txt and feature2.txt in the master branch.
+2. Created 3 branches develop, feature1 and feature2.
+3. In develop branch created develop.txt, did not staged or commited it
+4. Stashed that file and check out to feature1 branch.
+5. Created new.txt file in fefature1 branch, staged and commited that file.
+6. Checkked out to develop, unstashed that file and commited. 
+  
