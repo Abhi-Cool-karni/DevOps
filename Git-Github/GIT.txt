@@ -17,4 +17,4 @@ Distributed version control system keeps the record in both the local and remote
 Ex: Git
 
 Git revert: The commnad used to uncommit and get back the changes. 
-Git rebase: This is used to uncommit but changes won't get back.
+Git reset: This is used to uncommit but changes won't get back.
