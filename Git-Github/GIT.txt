@@ -14,4 +14,7 @@ Ex: SVN
 2. Distribution version control system:
 Distributed version control system keeps the record in both the local and remote (central) server/repo keeping the records intact avoiding downtime and latency.
 
-Ex: Git, 
+Ex: Git
+
+Git revert: The commnad used to uncommit and get back the changes. 
+Git rebase: This is used to uncommit but changes won't get back.
