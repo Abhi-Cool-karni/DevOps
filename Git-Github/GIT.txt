@@ -21,4 +21,5 @@ COMMANDS
 
 Git revert: The commnad used to uncommit and get back the changes. 
 Git reset: This is used to uncommit but changes won't get back.
-Git tag: Is used to as a aliasis to save and rember 
+Git tag: Is used to as a aliasis to save and rember.
+GIT stash: It is used to store the incomplete task or files in the memory of the git. To avoid the pending to stage in git.
