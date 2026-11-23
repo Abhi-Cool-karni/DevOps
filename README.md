@@ -8,7 +8,7 @@ Currently, I'm transitioning into the DevOps domain, building practical skills i
 ### 🚀 Currently Learning
 - Linux Administration
 - Bash Scripting
-- Git & GitHub
+
 - AWS Cloud
 - Docker
 - Jenkins CI/CD
@@ -20,6 +20,7 @@ Currently, I'm transitioning into the DevOps domain, building practical skills i
 - TCP/IP, DNS, DHCP
 - ISP & Customer Infrastructure
 - Network Operations & Escalation Management
+- Git & GitHub
 
 ### 🎯 Career Goal
 To become a skilled DevOps Engineer by building real-world projects and developing hands-on experience with cloud and automation technologies.
