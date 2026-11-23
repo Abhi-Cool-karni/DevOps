@@ -21,5 +21,4 @@ COMMANDS
 
 Git revert: The commnad used to uncommit and get back the changes. 
 Git reset: This is used to uncommit but changes won't get back.
-
-
+Git tag: Is used to as a aliasis to save and rember 
