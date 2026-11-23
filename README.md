@@ -8,7 +8,7 @@ Currently, I'm transitioning into the DevOps domain, building practical skills i
 ### 🚀 Currently Learning
 - Linux Administration
 - Bash Scripting
-
+- Python
 - AWS Cloud
 - Docker
 - Jenkins CI/CD
