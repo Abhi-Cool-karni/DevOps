@@ -1,0 +1,1 @@
+This file is n example for the git reset feature.
